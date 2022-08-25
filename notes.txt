@@ -1,0 +1,8 @@
+Create a side project that utilizes the drag and drop
+
+Why do we need to bind event handlers?
+ex. "this.handleFormSubmissionError = this.handleFormSubmissionError.bind(this);"
+
+
+Synthetic Event:
+ - Called "Synthetic" because React works with the Virtual DOM, not the actual DOM. It creates events that act like real events
