@@ -28,7 +28,7 @@ export default function () {
 							<FontAwesomeIcon icon="envelope" />
 						</div>
 
-						<div className="text">example@gmail.com</div>
+						<div className="text">hacklemannathan@gmail.com</div>
 					</div>
 
 					<div className="bullet-point-group">
